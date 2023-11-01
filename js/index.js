@@ -6,3 +6,11 @@ const apikey = process.env.API_KEY_1;
 // lol other change
 
 // console.log(process.env);
+
+// console.log(apikey);
+// console.log(process.env);
+
+// ammend
+// ammend 2
+
+// force ammend

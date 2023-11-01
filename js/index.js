@@ -14,3 +14,5 @@ const apikey = process.env.API_KEY_1;
 // ammend 2
 
 // force ammend
+
+// console.log(process.env);
